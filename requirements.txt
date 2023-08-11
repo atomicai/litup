@@ -1,0 +1,13 @@
+torch==2.0.1
+more-itertools==9.1.0
+pandas==2.0.3
+polars==0.17.13
+pyarrow==12.0.0
+Flask==2.0.1
+python-dotenv==0.21.1
+random-name==0.1.1
+transformers==4.30.2
+sentence-transformers==2.2.2
+tokenizers==0.13.3
+quaterion==0.1.35
+quaterion-models==0.1.19
